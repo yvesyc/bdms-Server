@@ -22561,13 +22561,13 @@
         <string name="name" value="萨比特拉玛的毕生作品"/>
     </imgdir>
     <imgdir name="30000">
-        <string name="name" value="来自北斗开发者的问候"/>
+        <string name="name" value="来自怀旧冒险岛GM的问候"/>
         <string name="0" value="来到了熟悉的冒险岛，是谁在呼唤我？"/>
-        <string name="1" value="冒险岛的开发者昨日小睡联系到了我，她让给我去找昨日酣睡？她是谁呢？"/>
+        <string name="1" value="怀旧冒险岛GM昨日小睡联系到了我，她让给我去找昨日酣睡？她是谁呢？"/>
         <string name="2" value="找到了昨日酣睡，并且她带我进入了冒险岛的世界。"/>
         <int name="area" value="20"/>
         <int name="autoStart" value="1"/>
-        <string name="type" value="[北斗冒险岛]"/>
+        <string name="type" value="[怀旧冒险岛]"/>
     </imgdir>
     <imgdir name="2270">
         <string name="name" value="我的梦想……"/>
@@ -22817,7 +22817,7 @@
         <int name="area" value="30"/>
         <int name="autoStart" value="1"/>
         <int name="autoPreComplete" value="1"/>
-        <string name="type" value="[北斗冒险岛]"/>
+        <string name="type" value="[怀旧冒险岛]"/>
     </imgdir>
     <imgdir name="4100">
         <string name="0" value="最近#b#p9310010##k家家畜变得很暴躁，农活也变得很困难。去找找他吧。"/>
