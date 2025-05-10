@@ -1,6 +1,6 @@
 本项目基于Cosmic来的汉化和优化，Cosmic地址：https://github.com/P0nk/Cosmic   
 # 开发进展
-[开发进展](https://github.com/BeiDouMS/BeiDou-Server/wiki/%E5%BC%80%E5%8F%91%E8%BF%9B%E5%BA%A6)
+[开发进展](https://github.com/yvesyc/bdms-Server/wiki/%E5%BC%80%E5%8F%91%E8%BF%9B%E5%BA%A6)
 
 # gms-server 服务端
 - 已实现自动创建数据库，执行初始化sql脚本，只要保证mysql是启动的即可  
